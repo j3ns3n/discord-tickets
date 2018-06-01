@@ -1,0 +1,32 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "Open-Source, lightweight Discord ticket bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MercyDoesCode/discord-tickets.git"
+  },
+  "keywords": [
+    "Discord",
+    "Ticket",
+    "Bot",
+    "Eris"
+  ],
+  "author": "MercyDoesCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MercyDoesCode/discord-tickets/issues"
+  },
+  "homepage": "https://github.com/MercyDoesCode/discord-tickets#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "dateformat": "^3.0.3",
+    "eris": "^0.8.6",
+    "express": "^4.16.3",
+    "rethinkdbdash": "^2.3.31"
+  }
+}

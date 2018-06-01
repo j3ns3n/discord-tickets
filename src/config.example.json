@@ -1,0 +1,8 @@
+{
+  "token": "BOT TOKEN",
+  "prefix": ".",
+  "server": "SERVER ID",
+  "category": "CHANNEL CATEGORY ID",
+  "port": 3001,
+  "baseurl": "http(s)://YOUR SITE HERE.COM"
+}
