@@ -14,6 +14,6 @@ Follow the steps for your system at https://rethinkdb.com/install/
 
 ### Extra
 Be sure to `proxy_pass` the port to whatever url you desire. Also, ensure the url in the config file doesn't end in `/`
-
+## If people want anything added, make an issue and I may come back to it but for now this project is dead.
 ### License
 I don't really care what you do as long as you maintain the text in the help command. I reserve the right to edit the code at any time as well as take any and all action I see fit against anybody using my code to abuse either Discord or the users of a server.
